@@ -48,13 +48,13 @@ Os dados coletados durante a fase de testes foram compilados e visualizados nos 
 Os gráficos de linha a seguir comparam o tempo de execução (em segundos) dos três algoritmos em relação ao aumento do tamanho do array para cada um dos cenários. A escala logarítmica foi utilizada em ambos os eixos para melhor visualização da ordem de grandeza.
 
 **Melhor Caso (Array Ordenado)**
-![Gráfico de Tempo de Execução - Melhor Caso](results/tempo_execucao_melhor_caso_ordenado.png)
+![Gráfico de Tempo de Execução - Melhor Caso](results/tempo_execucao_melhor_caso_(ordenado).png)
 
 **Caso Médio (Array Aleatório)**
-![Gráfico de Tempo de Execução - Caso Médio](results/tempo_execucao_caso_medio_aleatorio.png)
+![Gráfico de Tempo de Execução - Caso Médio](results/tempo_execucao_caso_medio_(aleatorio).png)
 
 **Pior Caso (Array Inverso)**
-![Gráfico de Tempo de Execução - Pior Caso](results/tempo_execucao_pior_caso_inverso.png)
+![Gráfico de Tempo de Execução - Pior Caso](results/tempo_execucao_pior_caso_(inverso).png)
 
 #### 4.2. Número de Comparações e Trocas (Caso Médio)
 
